@@ -1,0 +1,13 @@
+config.js
+credentials.json
+credentials.js
+*.log
+.cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
