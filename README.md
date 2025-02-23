@@ -2,6 +2,10 @@
 
 A Chrome extension that automatically adds DSE gym class registrations from emails (e.g., "Barre on 2/24/2025 at 5:15pm") to your Google Calendar.
 
+<p align="center">
+    <img src="screenshot.png" alt="Screenshot of the extension">
+</p>
+
 ## Why?
 
 I get emails mentioning the time when registering for gym classes at my university. I often get late or miss them, so I built this to sync them to my Calendar automatically.
